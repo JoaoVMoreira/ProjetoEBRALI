@@ -22,7 +22,7 @@
 
   <a href="" target="_blank">
     <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUpoQl-2xn9e-2AOE3h-7o92fvr7xSA5lGg10nfkCFg&s"
+      src="https://logospng.org/download/css-3/logo-css-3-2048.png"
       alt="Css3"
       width="120"
       height="120"
@@ -31,7 +31,7 @@
   
   <a href="" target="_blank">
     <img
-      src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"
+      src="https://img1.gratispng.com/20180716/uq/kisspng-javascript-computer-icons-software-developer-casca-javascript-logo-5b4ca5d5ce4a28.360002591531749845845.jpg"
       alt="Css3"
       width="120"
       height="120"
